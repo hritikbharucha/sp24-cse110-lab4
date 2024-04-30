@@ -33,6 +33,6 @@
     F. true because 2 converted to boolean is true
 15. == checks for non-strict equality so if they evaluate to similar things but are not the same type it results true while === checks for strict equality so they have to be the same type.
     
-17. The result is [2,4,6] because the function loops through the elements in the input array and sends each element to the callback function which multiplies the numbers by 2 and then gets pushed to the new array.
+17- The result is [2,4,6] because the function loops through the elements in the input array and sends each element to the callback function which multiplies the numbers by 2 and then gets pushed to the new array.
     
-19. 1 4 3 2, this is because 2 is delayed by a second and 3 is delayed slightly while 1 and 4 are logged instantly.
+19- 1 4 3 2, this is because 2 is delayed by a second and 3 is delayed slightly while 1 and 4 are logged instantly.
